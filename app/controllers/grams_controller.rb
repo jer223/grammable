@@ -15,11 +15,12 @@ class GramsController < ApplicationController
   end
 
   def index
+    @grams = Gram.all
   end  
 
   def show
     @gram = Gram.find_by_id(params[:id])
-    return render_not_found if @gram.blank?   
+    return render_not_found if @gram.blank? 
   end  
 
   def edit
@@ -52,7 +53,7 @@ class GramsController < ApplicationController
   private
 
   def gram_params
-    params.require(:gram).permit(:message)
+    params.require(:gram).permit(:message, :picture)
   end
 
   def render_not_found(status=:not_found)

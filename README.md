@@ -1,24 +1,9 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is a picture sharing application that allows its users to interact through the art of photography. The application was built using TDD principles.
 
-Things you may want to cover:
+---
 
-* Ruby version
+## Getting started
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 

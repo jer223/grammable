@@ -22,9 +22,9 @@ Git clone the repository to your local machine:
 
 ## Built with:
 
-*Rails
-*Rspec
-*Bootstrap
-*Devise
-*FactoryBot
-*CarrierWave
+* Rails
+* Rspec
+* Bootstrap
+* Devise
+* FactoryBot
+* CarrierWave

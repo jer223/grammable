@@ -28,3 +28,7 @@ Git clone the repository to your local machine:
 * Devise
 * FactoryBot
 * CarrierWave
+
+## Authors
+
+Please see list of contributors.

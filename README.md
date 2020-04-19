@@ -12,7 +12,7 @@ Grammable is a picture sharing application that allows its users to interact thr
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-###Installing
+### Installing
 
 Git clone the repository to your local machine:
 

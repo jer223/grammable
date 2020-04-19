@@ -17,3 +17,14 @@ These instructions will get you a copy of the project up and running on your loc
 Git clone the repository to your local machine:
 
 <p>HTTPS:</p><pre><code> $ https://github.com/jer223/grammable.git </code></pre>
+
+<p>SSH:</p><pre><code> $ git@github.com:jer223/grammable.git </code></pre>
+
+## Built with:
+
+*Rails
+*Rspec
+*Bootstrap
+*Devise
+*FactoryBot
+*CarrierWave
